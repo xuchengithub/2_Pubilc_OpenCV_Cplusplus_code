@@ -1,0 +1,53 @@
+﻿  adding_borders_to_your_images.cpp
+E:\研修データ\１９２６キョ_シン\OpenCV\OpenCV4_tutorial(作成中)\image_processing_(imgproc_module)\Project1\Project1\adding_borders_to_your_images.cpp(1,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+  affine_transformations.cpp
+E:\研修データ\１９２６キョ_シン\OpenCV\OpenCV4_tutorial(作成中)\image_processing_(imgproc_module)\Project1\Project1\affine_transformations.cpp(1,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+  backprojection.cpp
+E:\研修データ\１９２６キョ_シン\OpenCV\OpenCV4_tutorial(作成中)\image_processing_(imgproc_module)\Project1\Project1\backprojection.cpp(1,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+  basic_thresholding_operations.cpp
+E:\研修データ\１９２６キョ_シン\OpenCV\OpenCV4_tutorial(作成中)\image_processing_(imgproc_module)\Project1\Project1\basic_thresholding_operations.cpp(1,10): fatal error C1083: Cannot open include file: 'opencv2\opencv.hpp': No such file or directory
+  brief_simple_geometric_drawing.cpp
+E:\研修データ\１９２６キョ_シン\OpenCV\OpenCV4_tutorial(作成中)\image_processing_(imgproc_module)\Project1\Project1\brief_simple_geometric_drawing.cpp(1,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+  canny_function.cpp
+E:\研修データ\１９２６キョ_シン\OpenCV\OpenCV4_tutorial(作成中)\image_processing_(imgproc_module)\Project1\Project1\canny_function.cpp(1,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+  color_thresholding.cpp
+E:\研修データ\１９２６キョ_シン\OpenCV\OpenCV4_tutorial(作成中)\image_processing_(imgproc_module)\Project1\Project1\color_thresholding.cpp(1,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+  convex_hull.cpp
+E:\研修データ\１９２６キョ_シン\OpenCV\OpenCV4_tutorial(作成中)\image_processing_(imgproc_module)\Project1\Project1\convex_hull.cpp(1,9): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+  dilation_erosion.cpp
+E:\研修データ\１９２６キョ_シン\OpenCV\OpenCV4_tutorial(作成中)\image_processing_(imgproc_module)\Project1\Project1\dilation_erosion.cpp(1,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+  drawing_random_lines.cpp
+E:\研修データ\１９２６キョ_シン\OpenCV\OpenCV4_tutorial(作成中)\image_processing_(imgproc_module)\Project1\Project1\drawing_random_lines.cpp(1,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+  extract_horizontal_and_vertical_lines_by_using_morphological_operations.cpp
+E:\研修データ\１９２６キョ_シン\OpenCV\OpenCV4_tutorial(作成中)\image_processing_(imgproc_module)\Project1\Project1\extract_horizontal_and_vertical_lines_by_using_morphological_operations.cpp(1,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+  finding_contours_in_your_image.cpp
+E:\研修データ\１９２６キョ_シン\OpenCV\OpenCV4_tutorial(作成中)\image_processing_(imgproc_module)\Project1\Project1\finding_contours_in_your_image.cpp(1,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+  gaussian_pyramid.cpp
+E:\研修データ\１９２６キョ_シン\OpenCV\OpenCV4_tutorial(作成中)\image_processing_(imgproc_module)\Project1\Project1\gaussian_pyramid.cpp(1,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+  histogram_calculation.cpp
+E:\研修データ\１９２６キョ_シン\OpenCV\OpenCV4_tutorial(作成中)\image_processing_(imgproc_module)\Project1\Project1\histogram_calculation.cpp(1,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+  histogram_comparsion.cpp
+E:\研修データ\１９２６キョ_シン\OpenCV\OpenCV4_tutorial(作成中)\image_processing_(imgproc_module)\Project1\Project1\histogram_comparsion.cpp(1,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+  hit_or_miss.cpp
+E:\研修データ\１９２６キョ_シン\OpenCV\OpenCV4_tutorial(作成中)\image_processing_(imgproc_module)\Project1\Project1\hit_or_miss.cpp(1,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+  hough_line_transform.cpp
+E:\研修データ\１９２６キョ_シン\OpenCV\OpenCV4_tutorial(作成中)\image_processing_(imgproc_module)\Project1\Project1\hough_line_transform.cpp(1,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+  laplace_derivatives.cpp
+E:\研修データ\１９２６キョ_シン\OpenCV\OpenCV4_tutorial(作成中)\image_processing_(imgproc_module)\Project1\Project1\laplace_derivatives.cpp(1,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+  main.cpp
+E:\研修データ\１９２６キョ_シン\OpenCV\OpenCV4_tutorial(作成中)\image_processing_(imgproc_module)\Project1\Project1\main.cpp(90,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+  all_filters.cpp
+E:\研修データ\１９２６キョ_シン\OpenCV\OpenCV4_tutorial(作成中)\image_processing_(imgproc_module)\Project1\Project1\all_filters.cpp(1,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+  Generating Code...
+  Compiling...
+  make_your_own_filter.cpp
+E:\研修データ\１９２６キョ_シン\OpenCV\OpenCV4_tutorial(作成中)\image_processing_(imgproc_module)\Project1\Project1\make_your_own_filter.cpp(1,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+  more_morphology_transformations.cpp
+E:\研修データ\１９２６キョ_シン\OpenCV\OpenCV4_tutorial(作成中)\image_processing_(imgproc_module)\Project1\Project1\more_morphology_transformations.cpp(1,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+  sobel_derivatives.cpp
+E:\研修データ\１９２６キョ_シン\OpenCV\OpenCV4_tutorial(作成中)\image_processing_(imgproc_module)\Project1\Project1\sobel_derivatives.cpp(1,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+  creating_bounding_boxes_and_circles_for_contours.cpp
+E:\研修データ\１９２６キョ_シン\OpenCV\OpenCV4_tutorial(作成中)\image_processing_(imgproc_module)\Project1\Project1\creating_bounding_boxes_and_circles_for_contours.cpp(1,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+  template_matching.cpp
+E:\研修データ\１９２６キョ_シン\OpenCV\OpenCV4_tutorial(作成中)\image_processing_(imgproc_module)\Project1\Project1\template_matching.cpp(1,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+  Generating Code...
